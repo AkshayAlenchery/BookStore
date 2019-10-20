@@ -26,6 +26,8 @@
   border: 1px solid #999;
 }
 
-footer {
-  color: #fff;
+.login-btn {
+  width: 400px !important;
+  padding: 15px !important;
+  font-size: 1em;
 }

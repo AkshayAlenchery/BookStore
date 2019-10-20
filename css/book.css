@@ -1,0 +1,62 @@
+#bookContainer {
+  width: 940px;
+  padding: 10px 20px;
+  background: #fff;
+  margin: 70px auto 0 auto;
+}
+
+#updateBook {
+  display: none;
+}
+
+#addBook {
+  margin-bottom: 20px;
+}
+
+.form-container {
+  display: inline-block;
+  margin: 5px;
+}
+
+.form-container label {
+  display: block;
+}
+
+.form-container input {
+  padding: 10px;
+  margin-top: 10px;
+  width: 150px;
+}
+
+.add-book-btn {
+  font-size: 1em;
+}
+
+#displayBooks {
+  margin-bottom: 20px;
+}
+
+#displayBooks table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#displayBooks table, td, th {
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+#displayBooks td, th {
+  padding: 15px;
+}
+
+.update-btn, .delete-btn {
+  text-decoration: none;
+  padding: 5px;
+  font-size: 0.9em;
+  border-radius: 3px;
+}
+
+.update-btn {
+  margin-right: 5px;
+}
